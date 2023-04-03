@@ -83,8 +83,10 @@ Output:
 
 RTL
 ![image](https://user-images.githubusercontent.com/120643262/229445352-12e02f5b-4a8e-435b-9a53-92bb0f34207e.png)
+
 Timing Table:
 ![image](https://user-images.githubusercontent.com/120643262/229446412-9e70a811-0526-4bd1-9406-4ef4d0193c03.png)
+
 Truth Table:
 ![image](https://user-images.githubusercontent.com/120643262/229447237-7bc4a863-3841-4018-b7a6-e0aa7b926047.png)
 
