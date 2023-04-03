@@ -80,6 +80,7 @@ endmodule
 Logic symbol & Truthtable
 RTL realization
 Output:
+
 RTL
 ![image](https://user-images.githubusercontent.com/120643262/229445352-12e02f5b-4a8e-435b-9a53-92bb0f34207e.png)
 Timing Table:
@@ -88,4 +89,6 @@ Truth Table:
 ![image](https://user-images.githubusercontent.com/120643262/229447237-7bc4a863-3841-4018-b7a6-e0aa7b926047.png)
 
 Result:
+
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
